@@ -1,2 +1,2 @@
 # python-playground
-Teaching python basic to my friend
+Teaching python basics to my friend
